@@ -3,6 +3,8 @@
 - Apache 버전 - 2.2.22
 - php 버전 - 5.4.41
 
+라즈베리파이 APM 설치는 [여기](https://github.com/inyong-e/menual/blob/master/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B42%20APM%EC%84%A4%EC%B9%98.md)를 참조
+
 ---
 
 #### 센서 이용 - BerePi
