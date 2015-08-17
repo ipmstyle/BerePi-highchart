@@ -48,7 +48,7 @@ def calc(temp, humi):
 
     return tmp_temp, tmp_humi
 
-db = mdb.connect('localhost','root','dktkal123','test')
+db = mdb.connect('localhost','root','passwd','test')
 cur = db.cursor()
 
 if __name__== "__main__" :
