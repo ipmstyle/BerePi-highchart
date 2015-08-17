@@ -8,8 +8,8 @@
 #### 센서 이용 - BerePi
 BerePi 센서 모듈은 온습도, CO2, CO, DUST 등의 센서 등으로 이용 가능
 
-![BerePi 사진1](http://postfiles3.naver.net/20150817_130/jiy5520_1439797601447OpzL2_PNG/rasberiPi1.png)
-![BerePi 사진2](http://postfiles3.naver.net/20150817_258/jiy5520_1439797602115txj5n_JPEG/rasberiPi2.jpg)
+![BerePi 사진1](http://postfiles3.naver.net/20150817_130/jiy5520_1439797601447OpzL2_PNG/rasberiPi1.png?type=w3)
+![BerePi 사진2](http://postfiles3.naver.net/20150817_258/jiy5520_1439797602115txj5n_JPEG/rasberiPi2.jpg?type=w3)
 
 **설치**-
 BerePi 사용을 위한 OS img파일을 아래 주소에서 다운.
