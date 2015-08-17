@@ -7,7 +7,7 @@
 	$days= $nowArray["mday"];
 ?>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="//code.highcharts.com/highcharts.js"></script>
+<script src="//code.highcharts.com/highcharts.js"></script>  
 <script>
 function InitHighChart()
 {
